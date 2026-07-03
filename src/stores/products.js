@@ -16,7 +16,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 2,
                 name: "Bell Pepper",
                 category: "Vegetable",
-                price: 200,
+                price: 300,
                 availability: true,
                 image: '/bellpepper.jpg'
             },
@@ -24,7 +24,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 3,
                 name: "Strawberry",
                 category: "Fruit",
-                price: 200,
+                price: 500,
                 availability: true,
                 image: '/strawberry.jpg'
             },
@@ -32,7 +32,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 4,
                 name: "Sweet Potato",
                 category: "Vegetable",
-                price: 200,
+                price: 250,
                 availability: true,
                 image: '/sweetpotato.jpg'
             },
@@ -40,7 +40,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 5,
                 name: "Cabbage",
                 category: "Vegetable",
-                price: 200,
+                price: 100,
                 availability: true,
                 image: '/cabbage.jpg'
             },
@@ -48,7 +48,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 6,
                 name: "Apples",
                 category: "Fruit",
-                price: 200,
+                price: 300,
                 availability: true,
                 image: '/apple.jpg'
             },
@@ -56,7 +56,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 7,
                 name: "Carrot",
                 category: "Vegetable",
-                price: 200,
+                price: 150,
                 availability: true,
                 image: '/carrot.jpg'
             },
@@ -64,7 +64,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 8,
                 name: "Pineapple",
                 category: "Fruit",
-                price: 200,
+                price: 250,
                 availability: true,
                 image: '/pineapple.jpg'
             },
@@ -72,7 +72,7 @@ export const useProductsStore = defineStore('products',  {
                 id: 9,
                 name: "Wheat",
                 category: "Grain",
-                price: 200,
+                price: 600,
                 availability: true,
                 image: '/wheat.jpg'
             },
